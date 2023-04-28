@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Lisa DAUDIBON !
 
-I'm a french web developper based in Rennes, Brittany ! 
+I'm a french web developper based in Rennes, Brittany ! <br>
 Je suis une développeuse web française basée à Rennes, en Bretagne !
 
 - 🔭 I’m currently studying with The Hacking Projet
