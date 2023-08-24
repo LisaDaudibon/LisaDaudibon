@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lisa Daudibon !</h1>
 <h3 align="center">A new webdeveloper fullstack from Brittany, in France ! I'm looking for a internship with Rails/ruby or React ! Thank you for visiting my profile <3</h3>
 
-- 🌱 I’m currently learning **React and Javascript**
+- 🌱 I’m currently learning **React and Typescript**
 
-- 📫 How to reach me **lisadaudibon@outlook.fr**
+- 📫 How to reach me **lisa.daudibon@outlook.fr**
 
-- ⚡ Fun fact **I am a big nerd and love video games and reading**
+- ⚡ Fun fact **I love video games and reading. I'm currently playing regularly Hades and discovering Bigtime and the Web3 !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
