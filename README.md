@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lisa Daudibon !</h1>
-<h3 align="center">A new webdeveloper fullstack from Brittany, in France ! I'm looking for a internship with Rails/ruby or React ! Thank you for visiting my profile <\3 </h3>
+<h3 align="center">A new webdeveloper fullstack from Brittany, in France ! I'm looking for a internship with Rails/ruby or React ! Thank you for visiting my profile  </h3>
 
 - 🌱 I’m currently learning **React and Typescript**
 
