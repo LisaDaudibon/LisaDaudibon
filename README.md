@@ -49,8 +49,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lisadaudibon&show_icons=true&locale=en&layout=compact&theme=omni" alt="lisadaudibon" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lisadaudibon&show_icons=true&locale=en&layout=compact&theme=maroongold" alt="lisadaudibon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lisadaudibon&show_icons=true&locale=en&theme=omni" alt="lisadaudibon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lisadaudibon&show_icons=true&locale=en&theme=maroongold" alt="lisadaudibon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lisadaudibon&theme=omni" alt="lisadaudibon" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lisadaudibon&theme=maroongold" alt="lisadaudibon" /></p>
