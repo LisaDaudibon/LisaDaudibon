@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lisa Daudibon !</h1>
-<h3 align="center">A new webdeveloper fullstack from Brittany, in France ! I'm looking for a internship with Rails/ruby or React ! Thank you for visiting my profile  </h3>
+<h3 align="center">A fullstack or backend webdeveloper from Brittany, in France ! I'm looking for a new professionnals opportunies with Rails/ruby, React or the MERN stack ! Thank you for visiting my profile  </h3>
 
 <img align=right src="/Lisa_coding.png" width=300px>
 
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently learning **NextJS 13 and legacy and Typescript**
 
 - 📫 How to reach me **lisa.daudibon@outlook.fr**
 
